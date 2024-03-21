@@ -26,9 +26,6 @@ Contributing:
 
 Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to submit them via GitHub issues or make a pull request with your proposed changes.
 
-License:
-
-This project is licensed under the [License Name]. See the LICENSE file for more details.
 
 Acknowledgments:
 
