@@ -19,7 +19,7 @@ Processing: The system utilizes the Google Gemini Pro Free LLM Model to analyze 
 Output: Extracted data fields such as vendor details, invoice numbers, dates, and amounts are presented in a structured format for further processing or integration with other systems.
 Installation:
 
-Clone the repository from [GitHub Repo Link].
+Clone the repository 
 Install the required dependencies listed in the requirements.txt file.
 Follow the setup instructions to configure the Google Gemini Pro Free LLM Model for use within the project.
 Contributing:
